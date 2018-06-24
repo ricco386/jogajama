@@ -3318,9 +3318,14 @@ span.home-5-hero-title-color {
     color: #fff;
 }
 
-.is-sticky .home-6-mainmenu ul li a:hover {
+.link-red, .is-sticky .home-6-mainmenu ul li a:hover {
     color: #ec2b6a;
 }
+
+.link-red:hover {
+    color: #cf0e4d;
+}
+
 .slider-btn.dflt-home-btn.home-6-slider-btn:after {
   background: #cf0e4d none repeat scroll 0 0;
   border-radius: 40px;
